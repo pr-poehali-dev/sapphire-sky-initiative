@@ -317,14 +317,14 @@ export default function SoftwareDevelopmentWebsite() {
                   </a>
 
                   <h1 className="mt-8 max-w-4xl mx-auto text-balance text-6xl md:text-7xl lg:mt-16 xl:text-[5.25rem]">
-                    Замена автостекол с{" "}
+                    Замена автостекол{" "}
                     <span className="inline-block text-orange-500 text-6xl md:text-7xl xl:text-[5.25rem] font-semibold">
-                      выездом на место
+                      любой сложности
                     </span>
                   </h1>
                   <p className="mx-auto mt-8 max-w-2xl text-balance text-lg text-muted-foreground">
-                    Профессиональная установка лобовых, боковых и задних стекол. Оригинальные запчасти,
-                    гарантия качества и мобильный сервис — приедем к вам домой или на работу в день обращения.
+                    Профессиональная установка лобовых, боковых и задних стекол в нашем сервисе. Оригинальные запчасти,
+                    гарантия качества и быстрое обслуживание — замена стекла за 1-2 часа.
                   </p>
                 </AnimatedGroup>
 
@@ -484,12 +484,12 @@ export default function SoftwareDevelopmentWebsite() {
                     <Car className="size-6 text-orange-500" aria-hidden />
                   </CardDecorator>
 
-                  <h3 className="mt-6 font-medium">Выезд в день обращения</h3>
+                  <h3 className="mt-6 font-medium">Быстрая замена</h3>
                 </CardHeader>
 
                 <CardContent>
                   <p className="text-sm text-muted-foreground">
-                    Мобильный сервис — приедем к вам домой, на работу или на парковку. Заменим стекло прямо на месте.
+                    Замена любого стекла за 1-2 часа в нашем сервисе. Работаем без выходных, возможна запись на удобное время.
                   </p>
                 </CardContent>
               </div>
@@ -537,7 +537,7 @@ export default function SoftwareDevelopmentWebsite() {
             <div className="space-y-4 sm:col-span-2 lg:col-span-1">
               <Logo />
               <p className="text-sm text-muted-foreground max-w-xs">
-                Профессиональная замена автомобильных стекол с выездом на место. Гарантия, оригинальные запчасти и быстрый сервис.
+                Профессиональная замена автомобильных стекол в нашем сервисе. Гарантия, оригинальные запчасти и быстрое обслуживание.
               </p>
               <div className="flex space-x-4">
                 <a href="#" className="text-muted-foreground hover:text-orange-500 transition-colors">
